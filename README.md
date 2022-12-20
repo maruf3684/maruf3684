@@ -12,10 +12,10 @@ Passionate Web Developer and a highly motivated quick & self-learner. I have bee
 ✅ Python <br> 
 ✅ JavaScript <br>
 ✅ Java <br>
-✅ C# <br>
+✅ Rust <br>
 ✅ Express <br> 
 ✅ Django <br>
-✅ ASP.NET <br>
+✅ Android <br>
 ✅ React <br>
 ✅ Next.js <br>
 ✅ Rest API <br>
