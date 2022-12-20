@@ -6,7 +6,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/maruf3684) 
 
-Passionate Web Developer and a highly motivated quick & self-learner. I have been working in Web Development for the last 2 years. I’ve expertise in Express, Django, ASP.NET, React, Next.js, Rest API, Full-Stack development, System Design & DevOps.
+Passionate Web Developer and a highly motivated quick & self-learner. I have been working in Web & Android Development for the last 2 years. I’ve expertise in Express, Django, Android, React, Next.js, Rest API, Full-Stack development, System Design & DevOps.
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ Python <br> 
