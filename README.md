@@ -9,24 +9,22 @@
 Passionate Web Developer and a highly motivated quick & self-learner. I have been working in Web & Android Development for the last 2 years. I’ve expertise in Express, Django, Android, React, Next.js, Rest API, Full-Stack development, System Design & DevOps.
 
 ## 👨‍💻 Skills & Experiance: 
+✅ Java <br>
 ✅ Python <br> 
 ✅ JavaScript <br>
-✅ Java <br>
-✅ Rust <br>
-✅ Express <br> 
+✅ Spring Boot <br>
 ✅ Django <br>
-✅ Android <br>
+✅ Node.Js <br> 
 ✅ React <br>
 ✅ Next.js <br>
+✅ Vue.js <br>
+✅ Nuxt.js <br>
 ✅ Rest API <br>
 ✅ System Design <br> 
 ✅ DevOps <br>
 ✅ SQL <br>
 ✅ No SQL <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap / Tailwind <br>
-
-
-
+✅ Android <br>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maruf3684&layout=compact) -->
 
 ## ☕ Connect with me!
