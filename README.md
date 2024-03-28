@@ -4,8 +4,7 @@
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
-![Profile views](https://gpvc.arturio.dev/maruf3684) 
-
+<-- ![Profile views](https://gpvc.arturio.dev/maruf3684) -->
 Passionate Web Developer and a highly motivated quick & self-learner. I have been working in Web & Android Development for the last 2 years. I’ve expertise in Express, Django, Android, React, Next.js, Rest API, Full-Stack development, System Design & DevOps.
 
 ## 👨‍💻 Skills & Experiance: 
