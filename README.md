@@ -4,7 +4,7 @@
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
-Passionate Software Developer and a highly motivated quick & self-learner. I have been working in Web & Android Development for the last 2 years.
+Passionate Software Developer and a highly motivated quick & self-learner. I have been working in Web & Android Development for the last 4 years.
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ Java <br>
