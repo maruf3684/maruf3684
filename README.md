@@ -19,11 +19,11 @@ Passionate Web Developer and a highly motivated quick & self-learner. I have bee
 ✅ Next.js <br>
 ✅ Vue.js <br>
 ✅ Nuxt.js <br>
+✅ SQL <br>
+✅ No SQL <br>
 ✅ Rest API <br>
 ✅ System Design <br> 
 ✅ DevOps <br>
-✅ SQL <br>
-✅ No SQL <br>
 ✅ Android <br>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maruf3684&layout=compact) -->
 
