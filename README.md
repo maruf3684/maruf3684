@@ -4,7 +4,7 @@
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
-Passionate Software Developer and a highly motivated quick & self-learner. I have been working in Web & Android Development for the last 4 years.
+Passionate Software Developer and a highly motivated quick & self-learner.
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ Java <br>
@@ -12,18 +12,17 @@ Passionate Software Developer and a highly motivated quick & self-learner. I hav
 ✅ JavaScript <br>
 ✅ Spring Boot <br>
 ✅ Django <br>
-✅ Node.Js <br> 
+✅ NodeJS <br> 
+✅ NestJS <br> 
 ✅ React <br>
-✅ Next.js <br>
-✅ Vue.js <br>
-✅ Nuxt.js <br>
+✅ NextJS <br>
+✅ VueJS <br>
 ✅ SQL <br>
 ✅ No SQL <br>
 ✅ Rest API <br>
 ✅ System Design <br> 
 ✅ DevOps <br>
-✅ Android <br>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maruf3684&layout=compact) -->
 
 ## 📧 For Business Inquiries 
-✅  ► devwebmaruf@gmail.com
+✅  ► maruf3684@gmail.com
