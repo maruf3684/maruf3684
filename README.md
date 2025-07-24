@@ -17,6 +17,7 @@ Passionate Software Developer and a highly motivated quick & self-learner.
 ✅ React <br>
 ✅ NextJS <br>
 ✅ VueJS <br>
+✅ Angular <br>
 ✅ SQL <br>
 ✅ No SQL <br>
 ✅ Rest API <br>
