@@ -26,4 +26,4 @@ Passionate Software Developer and a highly motivated quick & self-learner.
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maruf3684&layout=compact) -->
 
 ## 📧 For Business Inquiries 
-✅  ► maruf3684@gmail.com
+✅  ► maruf.finsys@gmail.com
